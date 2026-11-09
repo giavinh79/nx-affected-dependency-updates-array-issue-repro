@@ -1,0 +1,8 @@
+{
+  "$schema": "./node_modules/nx/schemas/nx-schema.json",
+  "pluginsConfig": {
+    "@nx/js": {
+      "projectsAffectedByDependencyUpdates": ["*", "!b"]
+    }
+  }
+}

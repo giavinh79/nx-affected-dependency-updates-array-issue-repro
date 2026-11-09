@@ -1,0 +1,10 @@
+{
+  "name": "nx-affected-dependency-updates-array-issue-repro",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "nx": "24.0.5"
+  }
+}
